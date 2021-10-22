@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "kxPgVSV/lqJAVUwz36eZ8Hl6YngZxpZdanoDkSytqSUnTx4KztkqoXiveC7sDIZtBp3Ftu3+eCRoMU5jGqorTg==",
+  "success": true,
+  "projectFilePath": "/Users/RSB/Project/ExclusiveContent/ExclusiveContent.csproj",
+  "expectedPackageFiles": [
+    "/Users/RSB/.nuget/packages/microsoft.aspnetcore.authentication.openidconnect/5.0.11/microsoft.aspnetcore.authentication.openidconnect.5.0.11.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
+    "/Users/RSB/.nuget/packages/microsoft.identitymodel.jsonwebtokens/6.7.1/microsoft.identitymodel.jsonwebtokens.6.7.1.nupkg.sha512",
+    "/Users/RSB/.nuget/packages/microsoft.identitymodel.logging/6.7.1/microsoft.identitymodel.logging.6.7.1.nupkg.sha512",
+    "/Users/RSB/.nuget/packages/microsoft.identitymodel.protocols/6.7.1/microsoft.identitymodel.protocols.6.7.1.nupkg.sha512",
+    "/Users/RSB/.nuget/packages/microsoft.identitymodel.protocols.openidconnect/6.7.1/microsoft.identitymodel.protocols.openidconnect.6.7.1.nupkg.sha512",
+    "/Users/RSB/.nuget/packages/microsoft.identitymodel.tokens/6.7.1/microsoft.identitymodel.tokens.6.7.1.nupkg.sha512",
+    "/Users/RSB/.nuget/packages/system.identitymodel.tokens.jwt/6.7.1/system.identitymodel.tokens.jwt.6.7.1.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/system.security.cryptography.cng/4.5.0/system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
